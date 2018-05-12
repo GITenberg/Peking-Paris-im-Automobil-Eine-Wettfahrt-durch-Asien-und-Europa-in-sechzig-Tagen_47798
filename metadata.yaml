@@ -1,4 +1,8 @@
 _repo: Peking-Paris-im-Automobil-Eine-Wettfahrt-durch-Asien-und-Europa-in-sechzig-Tagen_47798
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47798-h/images/cover.jpg
 creator:
   author:
     agent_name: Barzini, Luigi
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7372
     wikipedia: http://en.wikipedia.org/wiki/Luigi_Barzini,_Sr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47798#Peking-Paris-im-Automobil-Eine-Wettfahrt-durch-Asien-und-Europa-in-sechzig-Tagen
 gutenberg_issued: '2014-12-28'
 gutenberg_type: Text
 identifiers:
